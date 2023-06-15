@@ -1,0 +1,5105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="297mm"
+   version="1.2"
+   height="210mm"
+   viewBox="0 0 2970 2100"
+   id="svg1336"
+   sodipodi:docname="chowndolo -  V parts .svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1338"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74122749"
+     inkscape:cx="468.14238"
+     inkscape:cy="459.37314"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page001" />
+  <title
+     id="title2">FreeCAD SVG Export</title>
+  <desc
+     id="desc4">Drawing page: Page001 exported from FreeCAD document: chowndolo___V2___3dmodel</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page001"
+     inkscape:groupmode="layer"
+     inkscape:label="TechDraw">
+    <g
+       font-family="'Sans Serif'"
+       stroke-opacity="1"
+       font-weight="400"
+       stroke-linejoin="bevel"
+       stroke="#000000"
+       stroke-linecap="square"
+       stroke-width="1"
+       font-style="normal"
+       transform="translate(594.41,694.291)"
+       fill="none"
+       font-size="31.75px"
+       id="g292"
+       style="fill-rule:evenodd">
+      <rect
+         width="0"
+         y="0"
+         height="0"
+         x="0"
+         id="rect290" />
+    </g>
+    <g
+       font-family="'Sans Serif'"
+       stroke-opacity="1"
+       font-weight="400"
+       stroke-linejoin="bevel"
+       stroke="#000000"
+       stroke-linecap="square"
+       stroke-width="1"
+       font-style="normal"
+       transform="translate(1212.61,646.342)"
+       fill="none"
+       font-size="31.75px"
+       id="g340"
+       style="fill-rule:evenodd">
+      <rect
+         width="0"
+         y="0"
+         height="0"
+         x="0"
+         id="rect338" />
+    </g>
+    <g
+       id="g2859"
+       transform="translate(405.01348,334.73347)">
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g300"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 8,-47.3097 111.339,-234.593"
+           id="path298" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g304"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 111.339,-234.593 c 2.299,-4.165 7.215,-6.135 11.754,-4.708 4.539,1.426 7.444,5.853 6.947,10.585"
+           id="path302" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g308"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 8,2.69027 V -47.3097"
+           id="path306" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g312"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 130.04,-228.716 89.1338,160.481"
+           id="path310" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g316"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -8,2.69027 H 8"
+           id="path314" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g320"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -89.1338,160.481 c 5.4037,45.128 43.6831,79.097 89.1338,79.097 45.4507,0 83.7301,-33.969 89.1338,-79.097"
+           id="path318" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g324"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -8,-47.3097 V 2.69027"
+           id="path322" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g328"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -130.04,-228.716 40.9062,389.197"
+           id="path326" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g332"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -8,-47.3097 -111.339,-234.593"
+           id="path330" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g336"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -130.04,-228.716 c -0.497,-4.732 2.408,-9.159 6.947,-10.585 4.539,-1.427 9.455,0.543 11.754,4.708"
+           id="path334" />
+      </g>
+    </g>
+    <g
+       id="g2859-4"
+       transform="translate(770.47604,334.73347)">
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g300-3"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 8,-47.3097 111.339,-234.593"
+           id="path298-6" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g304-0"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 111.339,-234.593 c 2.299,-4.165 7.215,-6.135 11.754,-4.708 4.539,1.426 7.444,5.853 6.947,10.585"
+           id="path302-4" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g308-3"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 8,2.69027 V -47.3097"
+           id="path306-6" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g312-3"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 130.04,-228.716 89.1338,160.481"
+           id="path310-7" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g316-4"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -8,2.69027 H 8"
+           id="path314-9" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g320-4"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -89.1338,160.481 c 5.4037,45.128 43.6831,79.097 89.1338,79.097 45.4507,0 83.7301,-33.969 89.1338,-79.097"
+           id="path318-2" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g324-9"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -8,-47.3097 V 2.69027"
+           id="path322-3" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g328-8"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -130.04,-228.716 40.9062,389.197"
+           id="path326-2" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g332-4"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -8,-47.3097 -111.339,-234.593"
+           id="path330-5" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(594.41,694.291)"
+         fill="none"
+         font-size="31.75px"
+         id="g336-4"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -130.04,-228.716 c -0.497,-4.732 2.408,-9.159 6.947,-10.585 4.539,-1.427 9.455,0.543 11.754,4.708"
+           id="path334-3" />
+      </g>
+    </g>
+    <g
+       id="g4339"
+       transform="translate(605.35362,360.874)">
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g384"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 143.735,-44.9972 c 0.052,-0.2218 0.078,-0.4487 0.077,-0.6763 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l -13,0.0042 c -1.396,5e-4 -2.607,0.9642 -2.922,2.3247 0,0.0038 -10e-4,0.0075 -0.002,0.0113 -0.05,0.2182 -0.075,0.4412 -0.075,0.665 0.001,1.6568 1.345,2.9996 3.001,2.999 l 13,-0.0042 c 1.392,-5e-4 2.601,-0.9584 2.92,-2.3135 0.001,-0.0037 0.002,-0.0075 0.002,-0.0112"
+           id="path382" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g388"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 143.764,41.4027 c 0.051,-0.2218 0.077,-0.4487 0.077,-0.6763 -0.001,-1.6568 -1.345,-2.9995 -3.001,-2.999 l -13,0.0042 c -1.397,5e-4 -2.608,0.9642 -2.922,2.3247 -0.001,0.0038 -0.002,0.0076 -0.003,0.0113 -0.05,0.2182 -0.074,0.4413 -0.074,0.665 0,1.6569 1.344,2.9996 3.001,2.999 l 13,-0.0042 c 1.392,-5e-4 2.6,-0.9584 2.919,-2.3135 0.001,-0.0037 0.002,-0.0075 0.003,-0.0112"
+           id="path386" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g392"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 143.733,-44.986 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l -13,0.0042 c -1.392,5e-4 -2.601,0.9584 -2.919,2.3135 -0.05,0.2182 -0.075,0.4412 -0.075,0.665 0.001,1.6568 1.345,2.9996 3.001,2.999 l 13,-0.0042 c 1.392,-5e-4 2.601,-0.9584 2.92,-2.3135"
+           id="path390" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g396"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 143.761,41.4139 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l -13,0.0042 c -1.392,5e-4 -2.6,0.9584 -2.919,2.3135 -0.05,0.2182 -0.074,0.4413 -0.074,0.665 0,1.6569 1.344,2.9996 3.001,2.999 l 13,-0.0042 c 1.392,-5e-4 2.6,-0.9584 2.919,-2.3135"
+           id="path394" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g400"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 103.985,-44.9843 c 0.052,-0.2218 0.078,-0.4487 0.077,-0.6763 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l -9.9995,0.0033 c -1.3963,4e-4 -2.6077,0.9642 -2.922,2.3247 -9e-4,0.0037 -0.0018,0.0075 -0.0026,0.0112 -0.0495,0.2182 -0.0745,0.4413 -0.0744,0.665 5e-4,1.6569 1.3441,2.9996 3.0009,2.9991 l 9.9996,-0.0033 c 1.392,-4e-4 2.601,-0.9584 2.92,-2.3135 10e-4,-0.0037 0.002,-0.0075 0.002,-0.0112"
+           id="path398" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g404"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 104.014,41.4156 c 0.051,-0.2218 0.077,-0.4486 0.077,-0.6763 -10e-4,-1.6568 -1.345,-2.9995 -3.001,-2.999 l -10.0004,0.0033 c -1.3963,4e-4 -2.6077,0.9642 -2.922,2.3247 -9e-4,0.0037 -0.0018,0.0075 -0.0026,0.0113 -0.0495,0.2181 -0.0745,0.4412 -0.0744,0.6649 5e-4,1.6569 1.3441,2.9996 3.001,2.9991 l 10.0004,-0.0033 c 1.392,-4e-4 2.6,-0.9584 2.919,-2.3135 0.001,-0.0037 0.002,-0.0075 0.003,-0.0112"
+           id="path402" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g408"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 103.983,-44.9731 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l -9.9997,0.0033 c -1.392,4e-4 -2.6009,0.9584 -2.9194,2.3134 -0.0495,0.2182 -0.0745,0.4413 -0.0744,0.665 5e-4,1.6569 1.3441,2.9996 3.0009,2.9991 l 9.9996,-0.0033 c 1.392,-4e-4 2.601,-0.9584 2.92,-2.3135"
+           id="path406" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g412"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 104.011,41.4268 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.6649 0,-1.6569 -1.344,-2.9996 -3.001,-2.9991 l -9.9996,0.0033 c -1.392,4e-4 -2.6009,0.9584 -2.9194,2.3135 -0.0495,0.2181 -0.0745,0.4412 -0.0744,0.6649 5e-4,1.6569 1.3441,2.9996 3.001,2.9991 l 10.0004,-0.0033 c 1.392,-4e-4 2.6,-0.9584 2.919,-2.3135"
+           id="path410" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g416"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 106.259,-30.7013 0.057,-3.01 c 0,-1.6569 -1.344,-2.9996 -3.001,-2.999 -1.396,4e-4 -2.607,0.9642 -2.922,2.3247 -0.001,0.0037 -0.001,0.0075 -0.002,0.0112 -0.05,0.2182 -0.075,0.4413 -0.075,0.665 l 0.039,-0.3381 -0.038,2.8381 c 0.001,1.6569 1.344,2.9996 3.001,2.9991 1.392,-5e-4 2.601,-0.9584 2.92,-2.3135 0,-0.0038 0.001,-0.0075 0.002,-0.0113 0.051,-0.2217 0.077,-0.4486 0.077,-0.6762"
+           id="path414" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g420"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 106.256,-30.6901 0.055,-2.9987 c 0,-1.6569 -1.344,-2.9996 -3.001,-2.999 -1.392,4e-4 -2.601,0.9584 -2.919,2.3134 -0.05,0.2182 -0.075,0.4413 -0.075,0.665 l 0.038,-0.3325 -0.037,2.8325 c 0.001,1.6569 1.344,2.9996 3.001,2.9991 1.392,-5e-4 2.601,-0.9584 2.92,-2.3135 0.049,-0.2182 0.074,-0.4413 0.074,-0.665"
+           id="path418" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g424"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 106.259,28.2149 c 0.052,-0.2218 0.077,-0.4487 0.077,-0.6763 0,-1.5252 -1.145,-2.8072 -2.66,-2.9797 -1.516,-0.1726 -2.919,0.8194 -3.263,2.3054 -10e-4,0.0038 -10e-4,0.0075 -0.002,0.0113 -0.366,1.6113 0.64,3.2151 2.25,3.587 1.61,0.3719 3.218,-0.628 3.596,-2.2365 10e-4,-0.0037 10e-4,-0.0075 0.002,-0.0112"
+           id="path422" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g428"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 106.257,28.2261 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665 0,-1.5229 -1.142,-2.8039 -2.655,-2.9791 -1.513,-0.1752 -2.917,0.811 -3.265,2.2936 -0.366,1.6113 0.64,3.2151 2.25,3.587 1.61,0.3719 3.218,-0.628 3.596,-2.2365"
+           id="path426" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g432"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 169.243,238.084 -0.156,-480.111 c -0.006,-17.304 -14.038,-31.327 -31.342,-31.321 l -158.7056,0.051 c -16.3096,0.006 -30.459,11.263 -34.1302,27.154 3.6712,-15.891 17.8206,-27.148 34.1302,-27.154 l 158.7056,-0.051 c 17.304,-0.006 31.336,14.017 31.342,31.321 l 0.156,480.111 c 0.001,2.664 -0.302,5.318 -0.901,7.914 -3.678,15.92 -17.853,27.197 -34.193,27.203 l -0.002,0.011 -41.7249,0.013 -0.0326,-99.999 -29.9974,0.009 0.03,100 -110,0.036 -0.0326,-100 -29.9974,0.01 0.03,100 -58.9911,0.019 -0.003,0.011 c -10.018,0.003 -19.491,-4.563 -25.728,-12.403 -6.237,-7.84 -8.558,-18.097 -6.303,-27.858 l 0.006,-0.022 c 0.348,-1.507 0.802,-2.987 1.358,-4.43 27.61,-71.579 50.933,-148.5711 69.9716,-230.97601 v 0 l -0.018,0.0778 0.018,-0.0778 v 0 l 0.0011,-0.00502 v 0 l 0.0041,-0.01749 c 17.4379,-75.48208 31.2801,-155.50548 41.5266,-240.07048 0.1496,-1.235 0.3649,-2.461 0.6448,-3.672 l -0.0052,0.022 c -0.2799,1.212 -0.4952,2.438 -0.6448,3.673 -10.2455,84.556 -24.086,164.572 -41.5214,240.04748 v 0 l -0.0041,0.01749 -0.0011,0.00502 C -116.306,80.0269 -139.629,157.019 -167.239,228.598 c -0.556,1.443 -1.01,2.923 -1.358,4.43 -2.255,9.761 0.065,20.018 6.302,27.857 6.238,7.84 15.71,12.407 25.729,12.404 l -0.003,0.011 58.9911,-0.019 -0.03,-100 29.9974,-0.01 0.0326,100 110,-0.036 -0.03,-100 29.9974,-0.009 0.0326,99.999 41.7249,-0.013 0.002,-0.011 c 16.34,-0.006 30.515,-11.283 34.193,-27.203 l -0.005,0.022 c -3.678,15.92 -17.854,27.198 -34.193,27.203 16.339,-0.005 30.515,-11.283 34.193,-27.203 l 0.005,-0.022 c 0.599,-2.596 0.902,-5.25 0.901,-7.914"
+           id="path430" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g436"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -47.5773,273.268 109.9994,-0.033 -109.9994,0.033"
+           id="path434" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g440"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -77.5753,273.269 -0.0052,0.023 -58.9885,0.008 58.9937,-0.031"
+           id="path438" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g444"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 92.4227,273.223 41.7243,-0.011 -41.7243,0.011"
+           id="path442" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g448"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -136.566,273.289 -0.006,0.022 c -10.018,0.003 -19.491,-4.563 -25.728,-12.403 -6.237,-7.84 -8.558,-18.097 -6.303,-27.858 l 0.006,-0.022 c -2.255,9.761 0.065,20.018 6.302,27.857 6.238,7.84 15.71,12.407 25.729,12.404"
+           id="path446" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g452"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 62.3921,173.241 v -0.017 l 29.9974,0.002 -29.9974,0.015"
+           id="path450" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g456"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 92.4227,273.223 -0.0032,0.014 -0.03,-100.011 0.0332,99.997"
+           id="path454" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g460"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -47.5773,273.268 -0.0032,0.014 -0.03,-100.011 0.0332,99.997"
+           id="path458" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g464"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 42.9969,-247.241 -0.0052,0.023 c -0.0015,-4.446 -3.3372,-8.185 -7.7546,-8.69 -4.4173,-0.506 -8.5118,2.381 -9.5183,6.712 9e-4,-0.004 0.0017,-0.007 0.0026,-0.011 1.0013,-4.335 5.0953,-7.228 9.5152,-6.725 4.4199,0.504 7.7588,4.243 7.7603,8.691"
+           id="path462" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g468"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 4.19687,-247.228 -0.0052,0.023 c -0.00145,-4.447 -3.337147,-8.185 -7.75452,-8.691 -4.41738,-0.506 -8.51175,2.382 -9.51835,6.713 9e-4,-0.004 0.0017,-0.008 0.0026,-0.012 1.0013,-4.334 5.09531,-7.227 9.51521,-6.724 4.419898,0.503 7.75881,4.243 7.76026,8.691"
+           id="path466" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g472"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -55.7356,-242.471 -0.0052,0.023 c -10.2455,84.556 -24.086,164.572 -41.5214,240.04748 v 0 C -79.8243,-77.8826 -65.9821,-157.906 -55.7356,-242.471"
+           id="path470" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g476"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 140.811,-48.6725 -0.005,0.0225 -12.997,-0.007 13.002,-0.0155"
+           id="path474" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g480"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 140.84,37.7274 -0.006,0.0225 -12.997,-0.007 13.003,-0.0155"
+           id="path478" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g484"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 101.09,37.7403 -0.006,0.0225 -9.997,-0.008 10.003,-0.0145"
+           id="path482" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g488"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 101.061,-48.6596 -0.005,0.0225 -9.9971,-0.008 10.0021,-0.0145"
+           id="path486" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g492"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 112.784,-134.263 -0.006,0.022 c 0,-2.761 -2.24,-4.999 -5.001,-4.998 l 0.005,-0.023 c 2.761,-0.001 5.001,2.237 5.002,4.999"
+           id="path490" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g496"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 33.7901,-114.238 -0.0052,0.023 c -9e-4,-2.762 -2.2402,-4.999 -5.0016,-4.999 l 0.0052,-0.022 c 2.7614,-10e-4 5.0007,2.237 5.0016,4.998"
+           id="path494" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g500"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 88.7901,-114.256 -0.0052,0.023 c -9e-4,-2.761 -2.2402,-4.999 -5.0016,-4.998 l 0.0052,-0.023 c 2.7614,-10e-4 5.0007,2.237 5.0016,4.998"
+           id="path498" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g504"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 106.336,27.5386 -0.005,0.0225 c 0,-1.5229 -1.142,-2.8039 -2.655,-2.9791 -1.513,-0.1752 -2.917,0.811 -3.265,2.2936 0.001,-0.0038 0.001,-0.0075 0.002,-0.0113 0.344,-1.486 1.747,-2.478 3.263,-2.3054 1.515,0.1725 2.66,1.4545 2.66,2.9797"
+           id="path502" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g508"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 102.912,-135.387 c 0.524,-2.268 2.543,-3.874 4.87,-3.875 l -0.005,0.023 c -2.323,0.001 -4.34,1.601 -4.868,3.863 10e-4,-0.004 0.002,-0.007 0.003,-0.011"
+           id="path506" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g512"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 83.7885,-119.254 -0.0052,0.023 c -2.3229,0 -4.3393,1.601 -4.8674,3.863 8e-4,-0.004 0.0017,-0.008 0.0026,-0.011 0.5238,-2.268 2.5428,-3.874 4.87,-3.875"
+           id="path510" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g516"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 23.9185,-115.362 c 0.5238,-2.267 2.5428,-3.873 4.87,-3.874 l -0.0052,0.022 c -2.3229,0.001 -4.3393,1.602 -4.8674,3.864 8e-4,-0.004 0.0017,-0.008 0.0026,-0.012"
+           id="path514" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g520"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 143.841,40.7264 -0.006,0.0225 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l 0.006,-0.0225 c 1.656,-5e-4 3,1.3422 3.001,2.999"
+           id="path518" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g524"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 104.062,-45.6606 -0.005,0.0225 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l 0.005,-0.0225 c 1.657,-5e-4 3.001,1.3422 3.001,2.999"
+           id="path522" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g528"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 143.812,-45.6735 -0.005,0.0225 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999 l 0.005,-0.0225 c 1.657,-5e-4 3.001,1.3422 3.001,2.999"
+           id="path526" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g532"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 106.316,-33.7113 -0.005,0.0225 c 0,-1.6569 -1.344,-2.9996 -3.001,-2.999 l 0.005,-0.0225 c 1.657,-6e-4 3.001,1.3421 3.001,2.999"
+           id="path530" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g536"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 104.091,40.7393 -0.006,0.0226 c 0,-1.6569 -1.344,-2.9996 -3.001,-2.9991 l 0.006,-0.0225 c 1.656,-5e-4 3,1.3422 3.001,2.999"
+           id="path534" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g540"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 103.315,-36.7103 -0.005,0.0225 c -1.392,4e-4 -2.601,0.9584 -2.919,2.3134 10e-4,-0.0037 10e-4,-0.0075 0.002,-0.0112 0.315,-1.3605 1.526,-2.3243 2.922,-2.3247"
+           id="path538" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g544"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 88.1676,40.0683 c 0.3143,-1.3605 1.5257,-2.3243 2.922,-2.3247 l -0.0052,0.0225 c -1.392,4e-4 -2.6009,0.9584 -2.9194,2.3135 l 0.0026,-0.0113 c -9e-4,0.0037 -0.0018,0.0075 -0.0026,0.0113"
+           id="path542" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g548"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 124.918,40.0563 c 0.314,-1.3605 1.525,-2.3242 2.922,-2.3247 l -0.006,0.0225 c -1.392,5e-4 -2.6,0.9584 -2.919,2.3135 l 0.003,-0.0113 c -0.001,0.0038 -0.002,0.0076 -0.003,0.0113"
+           id="path546" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g552"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 88.1395,-46.3316 c 0.3143,-1.3605 1.5257,-2.3243 2.922,-2.3247 l -0.0052,0.0225 c -1.392,4e-4 -2.6009,0.9584 -2.9194,2.3134 l 0.0026,-0.0112 c -9e-4,0.0037 -0.0018,0.0075 -0.0026,0.0112"
+           id="path550" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g556"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 124.889,-46.3436 c 0.315,-1.3605 1.526,-2.3242 2.922,-2.3247 l -0.005,0.0225 c -1.392,5e-4 -2.601,0.9584 -2.919,2.3135 l 0.002,-0.0113 c 0,0.0038 -10e-4,0.0075 -0.002,0.0113"
+           id="path554" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g560"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 33.7895,-104.221 -0.002,-10.005 0.002,10.005"
+           id="path558" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g564"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 88.7895,-104.239 -0.002,-10.005 0.002,10.005"
+           id="path562" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g568"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 112.783,-124.246 -0.002,-10.006 0.002,10.006"
+           id="path566" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g572"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 106.313,-31.1944 10e-4,-2.5057 -10e-4,2.5057"
+           id="path570" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g576"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 3.96971,-245.244 c 8.7e-4,-0.004 0.00174,-0.008 0.00261,-0.012 0.14943,-0.646 0.22476,-1.308 0.22455,-1.972 l -0.0052,0.023 c 2.1e-4,0.66 -0.07425,1.317 -0.22196,1.961"
+           id="path574" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g580"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 42.7697,-245.257 c 9e-4,-0.004 0.0017,-0.007 0.0026,-0.011 0.1494,-0.647 0.2248,-1.309 0.2246,-1.973 l -0.0052,0.023 c 2e-4,0.66 -0.0743,1.318 -0.222,1.961"
+           id="path578" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g584"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -55.7356,-242.471 -0.0052,0.023 c 0.1496,-1.235 0.3649,-2.461 0.6448,-3.673 l 0.0052,-0.022 c -0.2799,1.211 -0.4952,2.437 -0.6448,3.672"
+           id="path582" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g588"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 33.6625,-103.099 c 9e-4,-0.004 0.0017,-0.008 0.0026,-0.012 0.0854,-0.369 0.1284,-0.747 0.1283,-1.127 l -0.0052,0.023 c 10e-5,0.375 -0.0421,0.75 -0.1257,1.116"
+           id="path586" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g592"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 88.6625,-103.117 c 8e-4,-0.004 0.0017,-0.008 0.0026,-0.011 0.0854,-0.37 0.1284,-0.748 0.1283,-1.128 l -0.0052,0.023 c 1e-4,0.375 -0.0421,0.75 -0.1257,1.116"
+           id="path590" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g596"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m 112.656,-123.125 c 10e-4,-0.004 0.002,-0.007 0.003,-0.011 0.085,-0.37 0.128,-0.748 0.128,-1.127 l -0.005,0.022 c 0,0.376 -0.042,0.75 -0.126,1.116"
+           id="path594" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         fill-opacity="1"
+         font-weight="400"
+         stroke="none"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="#ffffff"
+         font-size="31.75px"
+         id="g600"
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           d="m -97.2622,-2.40052 -0.0041,0.01749 v 0 l 0.0041,-0.01749"
+           id="path598" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g604"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -47.6079,173.26 -0.0052,0.022"
+           id="path602" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g608"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -77.6079,173.27 30,-0.01"
+           id="path606" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g612"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -77.6079,173.292 29.9948,-0.01"
+           id="path610" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g616"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -77.5753,273.269 -0.0052,0.023"
+           id="path614" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g620"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -77.6079,173.27 0.0326,99.999"
+           id="path618" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g624"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -47.5753,273.26 -0.0052,0.022"
+           id="path622" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g628"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -47.6079,173.26 0.0326,100"
+           id="path626" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g632"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -47.6131,173.282 0.0326,100"
+           id="path630" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g636"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -77.5753,273.269 -58.9907,0.02"
+           id="path634" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g640"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -77.5805,273.292 -58.9915,0.019"
+           id="path638" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g644"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 62.4247,273.224 -0.0052,0.022"
+           id="path642" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g648"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -47.5753,273.26 110,-0.036"
+           id="path646" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g652"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -47.5805,273.282 110,-0.036"
+           id="path650" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g656"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -136.566,273.289 c -10.019,0.003 -19.491,-4.564 -25.729,-12.404 -6.237,-7.839 -8.557,-18.096 -6.302,-27.857"
+           id="path654" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g660"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -168.597,233.028 c 0.348,-1.507 0.802,-2.987 1.358,-4.43"
+           id="path658" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g664"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -136.572,273.311 c -10.018,0.003 -19.491,-4.563 -25.728,-12.403 -6.237,-7.84 -8.558,-18.097 -6.303,-27.858"
+           id="path662" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g668"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 62.4247,273.224 -0.0326,-100"
+           id="path666" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g672"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -55.7356,-242.471 c -10.2465,84.565 -24.0887,164.5884 -41.5266,240.07048"
+           id="path670" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g676"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M -97.2622,-2.40052 C -116.301,80.0128 -139.627,157.012 -167.239,228.598"
+           id="path674" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g680"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -55.7408,-242.448 c -10.2455,84.556 -24.086,164.572 -41.5214,240.04748"
+           id="path678" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g684"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -97.2674,-2.37801 -0.018,0.0778"
+           id="path682" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g688"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 92.3921,173.214 -0.0052,0.023"
+           id="path686" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g692"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 62.3921,173.224 30,-0.01"
+           id="path690" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g696"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 62.3921,173.247 29.9948,-0.01"
+           id="path694" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g700"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -55.7356,-242.471 c 0.1496,-1.235 0.3649,-2.461 0.6448,-3.672"
+           id="path698" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g704"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -55.0908,-246.143 c 3.6712,-15.891 17.8206,-27.148 34.1302,-27.154"
+           id="path702" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g708"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -55.7408,-242.448 c 0.1496,-1.235 0.3649,-2.461 0.6448,-3.673"
+           id="path706" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g712"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 92.4247,273.214 -0.0052,0.023"
+           id="path710" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g716"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 92.3921,173.214 0.0326,100"
+           id="path714" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g720"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 92.3869,173.237 0.0326,100"
+           id="path718" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g724"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 137.745,-273.348 -158.7056,0.051"
+           id="path722" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g728"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 92.4247,273.214 41.7243,-0.013"
+           id="path726" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g732"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 92.4195,273.237 41.7245,-0.014"
+           id="path730" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g736"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 137.745,-273.348 c 17.304,-0.006 31.336,14.017 31.342,31.321"
+           id="path734" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g740"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 169.243,238.084 c 0.001,2.664 -0.302,5.318 -0.901,7.914"
+           id="path738" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g744"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 168.342,245.998 c -3.678,15.92 -17.853,27.197 -34.193,27.203"
+           id="path742" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g748"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 168.337,246.02 c -3.678,15.92 -17.854,27.198 -34.193,27.203"
+           id="path746" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g752"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 169.243,238.084 -0.156,-480.111"
+           id="path750" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g756"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.091,40.7393 c -10e-4,-1.6568 -1.345,-2.9995 -3.001,-2.999"
+           id="path754" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g760"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.085,40.7619 c 0,-1.6569 -1.344,-2.9996 -3.001,-2.9991"
+           id="path758" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g764"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 101.09,37.7403 91.0896,37.7436"
+           id="path762" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g768"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 101.084,37.7628 -9.9996,0.0033"
+           id="path766" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g772"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 91.0896,37.7436 c -1.3963,4e-4 -2.6077,0.9642 -2.922,2.3247"
+           id="path770" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g776"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.1676,40.0683 c -0.0513,0.2218 -0.0771,0.4486 -0.077,0.6762"
+           id="path774" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g780"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 91.0844,37.7661 c -1.392,4e-4 -2.6009,0.9584 -2.9194,2.3135"
+           id="path778" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g784"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.0906,40.7445 c 5e-4,1.6569 1.3441,2.9996 3.001,2.9991"
+           id="path782" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g788"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="M 91.0916,43.7436 101.092,43.7403"
+           id="path786" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g792"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 101.092,43.7403 c 1.396,-4e-4 2.607,-0.9642 2.922,-2.3247"
+           id="path790" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g796"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.014,41.4156 c 0.051,-0.2218 0.077,-0.4486 0.077,-0.6763"
+           id="path794" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g800"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.011,41.4268 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.6649"
+           id="path798" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g804"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.336,27.5386 c 0,-1.5252 -1.145,-2.8072 -2.66,-2.9797 -1.516,-0.1726 -2.919,0.8194 -3.263,2.3054"
+           id="path802" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g808"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 100.413,26.8643 c -0.373,1.6144 0.634,3.2254 2.248,3.5983 1.614,0.373 3.225,-0.6334 3.598,-2.2477"
+           id="path806" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g812"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.259,28.2149 c 0.052,-0.2218 0.077,-0.4487 0.077,-0.6763"
+           id="path810" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g816"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.331,27.5611 c 0,-1.5229 -1.142,-2.8039 -2.655,-2.9791 -1.513,-0.1752 -2.917,0.811 -3.265,2.2936"
+           id="path814" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g820"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.257,28.2261 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665"
+           id="path818" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g824"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.841,40.7264 c -0.001,-1.6568 -1.345,-2.9995 -3.001,-2.999"
+           id="path822" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g828"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.835,40.7489 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999"
+           id="path826" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g832"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.84,37.7274 -13,0.0042"
+           id="path830" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g836"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.834,37.7499 -13,0.0042"
+           id="path834" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g840"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.84,37.7316 c -1.397,5e-4 -2.608,0.9642 -2.922,2.3247"
+           id="path838" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g844"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 124.918,40.0563 c -0.052,0.2218 -0.077,0.4487 -0.077,0.6763"
+           id="path842" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g848"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.834,37.7541 c -1.392,5e-4 -2.6,0.9584 -2.919,2.3135"
+           id="path846" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g852"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 124.841,40.7326 c 0,1.6569 1.344,2.9996 3.001,2.999"
+           id="path850" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g856"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.842,43.7316 13,-0.0042"
+           id="path854" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g860"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.842,43.7274 c 1.396,-5e-4 2.607,-0.9642 2.922,-2.3247"
+           id="path858" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g864"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.764,41.4027 c 0.051,-0.2218 0.077,-0.4487 0.077,-0.6763"
+           id="path862" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g868"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.761,41.4139 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665"
+           id="path866" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g872"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.317,-31.2113 -10e-4,-2.5"
+           id="path870" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g876"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.312,-31.1888 -10e-4,-2.5"
+           id="path874" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g880"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.316,-33.7113 c 0,-1.6569 -1.344,-2.9996 -3.001,-2.999"
+           id="path878" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g884"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.311,-33.6888 c 0,-1.6569 -1.344,-2.9996 -3.001,-2.999"
+           id="path882" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g888"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 103.315,-36.7103 c -1.396,4e-4 -2.607,0.9642 -2.922,2.3247"
+           id="path886" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g892"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 100.393,-34.3856 c -0.051,0.2218 -0.077,0.4486 -0.077,0.6762"
+           id="path890" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g896"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 103.31,-36.6878 c -1.392,4e-4 -2.601,0.9584 -2.919,2.3134"
+           id="path894" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g900"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 100.316,-33.7094 10e-4,2.5"
+           id="path898" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g904"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 100.317,-31.2094 c 0.001,1.6569 1.344,2.9996 3.001,2.9991"
+           id="path902" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g908"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 103.318,-28.2103 c 1.396,-5e-4 2.608,-0.9643 2.922,-2.3248"
+           id="path906" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g912"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.24,-30.5351 c 0.051,-0.2217 0.077,-0.4486 0.077,-0.6762"
+           id="path910" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g916"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.238,-30.5238 c 0.049,-0.2182 0.074,-0.4413 0.074,-0.665"
+           id="path914" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g920"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.062,-45.6606 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999"
+           id="path918" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g924"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.057,-45.6381 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999"
+           id="path922" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g928"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 101.061,-48.6596 -9.9995,0.0033"
+           id="path926" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g932"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 101.056,-48.6371 -9.9997,0.0033"
+           id="path930" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g936"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 91.0615,-48.6563 c -1.3963,4e-4 -2.6077,0.9642 -2.922,2.3247"
+           id="path934" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g940"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.1395,-46.3316 c -0.0513,0.2217 -0.0771,0.4486 -0.077,0.6762"
+           id="path938" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g944"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 91.0563,-48.6338 c -1.392,4e-4 -2.6009,0.9584 -2.9194,2.3134"
+           id="path942" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g948"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.0625,-45.6554 c 5e-4,1.6569 1.3441,2.9996 3.0009,2.9991"
+           id="path946" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g952"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 91.0634,-42.6563 9.9996,-0.0033"
+           id="path950" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g956"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 101.063,-42.6596 c 1.397,-4e-4 2.608,-0.9642 2.922,-2.3247"
+           id="path954" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g960"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 103.985,-44.9843 c 0.052,-0.2218 0.078,-0.4487 0.077,-0.6763"
+           id="path958" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g964"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 103.983,-44.9731 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665"
+           id="path962" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g968"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.812,-45.6735 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999"
+           id="path966" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g972"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.807,-45.651 c 0,-1.6568 -1.344,-2.9995 -3.001,-2.999"
+           id="path970" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g976"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.811,-48.6725 -13,0.0042"
+           id="path974" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g980"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.806,-48.65 -13,0.0042"
+           id="path978" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g984"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.811,-48.6683 c -1.396,5e-4 -2.607,0.9642 -2.922,2.3247"
+           id="path982" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g988"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 124.889,-46.3436 c -0.051,0.2218 -0.077,0.4487 -0.077,0.6763"
+           id="path986" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g992"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.806,-48.6458 c -1.392,5e-4 -2.601,0.9584 -2.919,2.3135"
+           id="path990" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g996"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 124.812,-45.6673 c 0.001,1.6568 1.345,2.9996 3.001,2.999"
+           id="path994" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1000"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.813,-42.6683 13,-0.0042"
+           id="path998" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1004"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.813,-42.6725 c 1.397,-5e-4 2.608,-0.9642 2.922,-2.3247"
+           id="path1002" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1008"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.735,-44.9972 c 0.052,-0.2218 0.078,-0.4487 0.077,-0.6763"
+           id="path1006" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1012"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.733,-44.986 c 0.049,-0.2182 0.074,-0.4412 0.074,-0.665"
+           id="path1010" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1016"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 23.7901,-114.234 0.0033,10"
+           id="path1014" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1020"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 23.7934,-104.234 c 9e-4,2.761 2.2402,4.9988 5.0016,4.9979"
+           id="path1018" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1024"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 28.795,-99.2361 c 2.3273,-7e-4 4.3462,-1.6069 4.8701,-3.8749"
+           id="path1022" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1028"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.6651,-103.111 c 0.0854,-0.369 0.1284,-0.747 0.1283,-1.127"
+           id="path1026" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1032"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.6625,-103.099 c 0.0836,-0.366 0.1258,-0.741 0.1257,-1.116"
+           id="path1030" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1036"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.7934,-104.238 -0.0033,-10"
+           id="path1034" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1040"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.7882,-104.215 -0.0033,-10"
+           id="path1038" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1044"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.7901,-114.238 c -9e-4,-2.761 -2.2402,-4.999 -5.0016,-4.998"
+           id="path1042" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1048"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.7849,-114.215 c -9e-4,-2.762 -2.2402,-4.999 -5.0016,-4.999"
+           id="path1046" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1052"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 28.7885,-119.236 c -2.3272,0.001 -4.3462,1.607 -4.87,3.874"
+           id="path1050" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1056"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 23.9185,-115.362 c -0.0854,0.37 -0.1285,0.748 -0.1284,1.128"
+           id="path1054" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1060"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 28.7833,-119.214 c -2.3229,0.001 -4.3393,1.602 -4.8674,3.864"
+           id="path1058" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1064"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 4.19687,-247.228 c -0.00145,-4.448 -3.340362,-8.188 -7.76026,-8.691 -4.4199,-0.503 -8.51391,2.39 -9.51521,6.724"
+           id="path1062" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1068"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -13.0786,-249.195 c -1.0877,4.709 1.8474,9.408 6.55591,10.495 4.70848,1.088 9.40726,-1.847 10.49501,-6.556"
+           id="path1066" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1072"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 3.97232,-245.256 c 0.14943,-0.646 0.22476,-1.308 0.22455,-1.972"
+           id="path1070" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1076"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 4.19167,-247.205 c -0.00145,-4.447 -3.337147,-8.185 -7.75452,-8.691 -4.41738,-0.506 -8.51175,2.382 -9.51835,6.713"
+           id="path1074" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1080"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 3.96971,-245.244 c 0.14771,-0.644 0.22217,-1.301 0.22196,-1.961"
+           id="path1078" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1084"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 42.9969,-247.241 c -0.0015,-4.448 -3.3404,-8.187 -7.7603,-8.691 -4.4199,-0.503 -8.5139,2.39 -9.5152,6.725"
+           id="path1082" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1088"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 25.7214,-249.207 c -1.0877,4.708 1.8474,9.407 6.5559,10.495 4.7085,1.088 9.4073,-1.848 10.495,-6.556"
+           id="path1086" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1092"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 42.7723,-245.268 c 0.1494,-0.647 0.2248,-1.309 0.2246,-1.973"
+           id="path1090" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1096"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 42.9917,-247.218 c -0.0015,-4.446 -3.3372,-8.185 -7.7546,-8.69 -4.4173,-0.506 -8.5118,2.381 -9.5183,6.712"
+           id="path1094" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1100"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 42.7697,-245.257 c 0.1477,-0.643 0.2222,-1.301 0.222,-1.961"
+           id="path1098" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1104"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 78.7901,-114.252 0.0033,10"
+           id="path1102" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1108"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 78.7934,-104.252 c 9e-4,2.761 2.2402,4.999 5.0016,4.9981"
+           id="path1106" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1112"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 83.795,-99.2539 c 2.3272,-8e-4 4.3462,-1.6071 4.8701,-3.8741"
+           id="path1110" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1116"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.6651,-103.128 c 0.0854,-0.37 0.1284,-0.748 0.1283,-1.128"
+           id="path1114" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1120"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.6625,-103.117 c 0.0836,-0.366 0.1258,-0.741 0.1257,-1.116"
+           id="path1118" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1124"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.7934,-104.256 -0.0033,-10"
+           id="path1122" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1128"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.7882,-104.233 -0.0033,-10"
+           id="path1126" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1132"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.7901,-114.256 c -9e-4,-2.761 -2.2402,-4.999 -5.0016,-4.998"
+           id="path1130" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1136"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.7849,-114.233 c -9e-4,-2.761 -2.2402,-4.999 -5.0016,-4.998"
+           id="path1134" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1140"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 83.7885,-119.254 c -2.3272,0.001 -4.3462,1.607 -4.87,3.875"
+           id="path1138" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1144"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 78.9185,-115.379 c -0.0854,0.369 -0.1285,0.747 -0.1284,1.127"
+           id="path1142" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1148"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 83.7833,-119.231 c -2.3229,0 -4.3393,1.601 -4.8674,3.863"
+           id="path1146" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1152"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 102.784,-134.26 0.003,10"
+           id="path1150" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1156"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 102.787,-124.26 c 10e-4,2.761 2.24,4.999 5.002,4.998"
+           id="path1154" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1160"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 107.789,-119.262 c 2.327,0 4.346,-1.607 4.87,-3.874"
+           id="path1158" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1164"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.659,-123.136 c 0.085,-0.37 0.128,-0.748 0.128,-1.127"
+           id="path1162" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1168"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.656,-123.125 c 0.084,-0.366 0.126,-0.74 0.126,-1.116"
+           id="path1166" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1172"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.787,-124.263 -0.003,-10"
+           id="path1170" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1176"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.782,-124.241 -0.004,-10"
+           id="path1174" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1180"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.784,-134.263 c -0.001,-2.762 -2.241,-5 -5.002,-4.999"
+           id="path1178" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1184"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.778,-134.241 c 0,-2.761 -2.24,-4.999 -5.001,-4.998"
+           id="path1182" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1188"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 107.782,-139.262 c -2.327,0.001 -4.346,1.607 -4.87,3.875"
+           id="path1186" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1192"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 102.912,-135.387 c -0.085,0.369 -0.128,0.748 -0.128,1.127"
+           id="path1190" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1196"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 107.777,-139.239 c -2.323,0.001 -4.34,1.601 -4.868,3.863"
+           id="path1194" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1200"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -168.603,233.05 0.006,-0.022"
+           id="path1198" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1204"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -97.2663,-2.38303 0.0041,-0.01749"
+           id="path1202" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1208"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -55.096,-246.121 0.0052,-0.022"
+           id="path1206" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1212"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 168.337,246.02 0.005,-0.022"
+           id="path1210" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1216"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -136.566,273.289 -0.006,0.022"
+           id="path1214" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1220"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m -55.7356,-242.471 -0.0052,0.023"
+           id="path1218" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1224"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 134.149,273.201 -0.005,0.022"
+           id="path1222" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1228"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 101.09,37.7403 -0.006,0.0225"
+           id="path1226" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1232"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 91.0896,37.7436 -0.0052,0.0225"
+           id="path1230" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1236"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.84,37.7274 -0.006,0.0225"
+           id="path1234" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1240"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.84,37.7316 -0.006,0.0225"
+           id="path1238" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1244"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.317,-31.2113 -0.005,0.0225"
+           id="path1242" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1248"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.316,-33.7113 -0.005,0.0225"
+           id="path1246" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1252"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 101.061,-48.6596 -0.005,0.0225"
+           id="path1250" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1256"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 91.0615,-48.6563 -0.0052,0.0225"
+           id="path1254" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1260"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 140.811,-48.6725 -0.005,0.0225"
+           id="path1258" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1264"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 127.811,-48.6683 -0.005,0.0225"
+           id="path1262" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1268"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.7934,-104.238 -0.0052,0.023"
+           id="path1266" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1272"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 33.7901,-114.238 -0.0052,0.023"
+           id="path1270" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1276"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.7934,-104.256 -0.0052,0.023"
+           id="path1274" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1280"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 88.7901,-114.256 -0.0052,0.023"
+           id="path1278" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1284"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.787,-124.263 -0.005,0.022"
+           id="path1282" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1288"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 112.784,-134.263 -0.006,0.022"
+           id="path1286" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1292"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.091,40.7393 -0.006,0.0226"
+           id="path1290" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1296"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 106.336,27.5386 -0.005,0.0225"
+           id="path1294" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1300"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.841,40.7264 -0.006,0.0225"
+           id="path1298" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1304"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 103.315,-36.7103 -0.005,0.0225"
+           id="path1302" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1308"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 104.062,-45.6606 -0.005,0.0225"
+           id="path1306" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1312"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 143.812,-45.6735 -0.005,0.0225"
+           id="path1310" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1316"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 28.7885,-119.236 -0.0052,0.022"
+           id="path1314" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1320"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 4.19687,-247.228 -0.0052,0.023"
+           id="path1318" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1324"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 42.9969,-247.241 -0.0052,0.023"
+           id="path1322" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1328"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 83.7885,-119.254 -0.0052,0.023"
+           id="path1326" />
+      </g>
+      <g
+         font-family="'Sans Serif'"
+         stroke-opacity="1"
+         font-weight="400"
+         stroke-linejoin="bevel"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-width="7"
+         font-style="normal"
+         transform="translate(1212.61,646.342)"
+         fill="none"
+         font-size="31.75px"
+         id="g1332"
+         style="fill-rule:evenodd">
+        <path
+           fill-rule="evenodd"
+           vector-effect="none"
+           d="m 107.782,-139.262 -0.005,0.023"
+           id="path1330" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata2235">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>FreeCAD SVG Export</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
